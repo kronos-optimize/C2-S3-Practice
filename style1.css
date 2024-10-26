@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+    font-family: sans-serif;
+    
+}
+
+
+
+.container{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left:100px;
+    margin-right:100px;
+    border-radius: 10px;
+}
+
+.readM{
+    border:none;
+    padding:10px;
+    border-radius:30px;
+}
+
+.readM-green{
+    background-color: rgb(25, 176, 43);
+    color:white;
+    
+}
+
+.readM-orange{
+    background-color: rgb(243, 114, 23);
+    color:white;
+}
+
+.readM-purple{
+    background-color: rgb(205, 37, 191);
+    color:white;
+}
+
+.readM:hover {
+    cursor: grabbing;
+  }
